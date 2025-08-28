@@ -3,14 +3,19 @@
 /renpy/
 /game_backup/
 /game/saves/
+/GUI Files/
 /game/tl
 /game/images
 /game/script.rpy 
 /game/script.rpyc
-/game/common/
+/game/intro.rpy
+/game/intro.rpyc
+/common/
 *.png
 *.psd
 *.jpg
 *.jpeg
 *.svg
 *.ico
+/game/cache/
+/game/audio/
