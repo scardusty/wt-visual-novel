@@ -8,6 +8,7 @@
 /game/images
 /game/script.rpy 
 /game/script.rpyc
+/game/common/
 *.png
 *.psd
 *.jpg
