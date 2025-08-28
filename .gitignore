@@ -1,0 +1,16 @@
+/random/
+/.vscode/
+/renpy/
+/game_backup/
+/game/
+/game/saves/
+/game/tl
+/game/images
+/game/script.rpy 
+/game/script.rpyc
+*.png
+*.psd
+*.jpg
+*.jpeg
+*.svg
+*.ico

@@ -1,0 +1,1052 @@
+2025-08-26 20:47:47 UTC
+macOS-14.7.6-arm64-arm-64bit
+Ren'Py 8.3.2.24090902
+
+Early init took 0.04s
+Loading error handling took 0.02s
+Loading script took 0.05s
+Loading save slot metadata took 0.02s
+Loading persistent took 0.00s
+scorpion has stats:
+attack: 1.5
+scorpion has stats:
+mobility: 1.0
+kogetsu has stats:
+attack: 1.5
+senku has stats:
+ranger: 1.0
+genyo has stats:
+ranger: 0.5
+raygust has stats:
+attack: 1.25
+thruster has stats:
+mobility: 1.0
+asteroid has stats:
+attack: 1.0
+hound has stats:
+attack: 1.0
+meteor has stats:
+attack: 1.0
+viper has stats:
+attack: 1.0
+handgun (asteroid) has stats:
+attack: 1.0
+handgun (hound) has stats:
+attack: 1.0
+handgun (meteor) has stats:
+attack: 1.0
+handgun (viper) has stats:
+attack: 1.0
+assault rifle (asteroid) has stats:
+attack: 1.0
+assault rifle (hound) has stats:
+attack: 1.0
+assault rifle (meteor) has stats:
+attack: 1.0
+assault rifle (viper) has stats:
+attack: 1.0
+shotgun (asteroid) has stats:
+attack: 1.0
+shotgun (hound) has stats:
+attack: 1.0
+shotgun (meteor) has stats:
+attack: 1.0
+shotgun (viper) has stats:
+attack: 1.0
+grenade launcher (meteor) has stats:
+defense: 1.0
+lead bullet has stats:
+defense: 1.0
+egret has stats:
+ranger: 4.0
+lightning has stats:
+ranger: 3.0
+ibis has stats:
+ranger: 3.0
+shield has stats:
+defense: 1.5
+escudo has stats:
+defense: 2.5
+bagworm has stats:
+defense: 0.2
+grasshopper has stats:
+mobility: 2.0
+dummy beacon has stats:
+defense: 0.5
+spider has stats:
+defense: 1.0
+chameleon has stats:
+command: 1.0
+starmaker has stats:
+defense: 0.5
+free trigger has stats:
+attack: 0.0
+Running init code took 0.02s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.03s
+Index archives took 0.00s
+Dump and make backups took 0.02s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.02s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.01s
+Build styles took 0.00s
+Load screen analysis took 0.02s
+Analyze screens took 0.00s
+Save screen analysis took 0.00s
+Prepare screens took 0.03s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.00s
+Running _start took 0.00s
+Interface start took 0.20s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1710, 1107)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Apple'"
+Renderer: b'Apple M3'
+Version: b'2.1 Metal - 88.1'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1579, 888) drawable=(3158, 1776)
+Maximum texture size: 4096x4096
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+scorpion . ['free trigger', 'free trigger', 'free trigger', 'free trigger'] . 0
+['free trigger', 'free trigger', 'free trigger', 'free trigger'] [ 0 ]
+scorpion
+{'attack': 2.0, 'mobility': 4.0, 'skill': 2.0, 'defense': 6.0, 'command': 4.0, 'ranger': 4.0, 'trion': 5}  are the
+halved stats are {'attack': 1.75, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.75, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.75, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.75, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.75, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.75, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.75, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.75, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.75, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.75, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.75, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.75, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.75, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.75, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.75, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.75, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.75, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.75, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.75, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.75, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.75, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.75, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.75, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.75, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.75, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.75, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.75, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+kogetsu . ['free trigger', 'free trigger', 'free trigger', 'free trigger'] . 0
+['free trigger', 'free trigger', 'free trigger', 'free trigger'] [ 0 ]
+kogetsu
+{'attack': 2.0, 'mobility': 4.0, 'skill': 2.0, 'defense': 6.0, 'command': 4.0, 'ranger': 4.0, 'trion': 5}  are the
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+shield . ['kogetsu', 'free trigger', 'free trigger', 'free trigger'] . 1
+['kogetsu', 'free trigger', 'free trigger', 'free trigger'] [ 1 ]
+shield
+{'attack': 2.0, 'mobility': 4.0, 'skill': 2.0, 'defense': 6.0, 'command': 4.0, 'ranger': 4.0, 'trion': 5}  are the
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.75, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.75, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.75, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.75, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.75, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.75, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.75, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.75, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.75, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.75, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.75, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.75, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.75, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.75, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.75, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.75, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+shield . ['scorpion', 'free trigger', 'free trigger', 'free trigger'] . 1
+['scorpion', 'free trigger', 'free trigger', 'free trigger'] [ 1 ]
+shield
+{'attack': 2.0, 'mobility': 4.0, 'skill': 2.0, 'defense': 6.0, 'command': 4.0, 'ranger': 4.0, 'trion': 5}  are the
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+senku . ['kogetsu', 'shield', 'free trigger', 'free trigger'] . 2
+['kogetsu', 'shield', 'free trigger', 'free trigger'] [ 2 ]
+senku
+{'attack': 2.0, 'mobility': 4.0, 'skill': 2.0, 'defense': 6.0, 'command': 4.0, 'ranger': 4.0, 'trion': 5}  are the
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+lightning . ['scorpion', 'shield', 'free trigger', 'free trigger'] . 2
+['scorpion', 'shield', 'free trigger', 'free trigger'] [ 2 ]
+lightning
+{'attack': 2.0, 'mobility': 4.0, 'skill': 2.0, 'defense': 6.0, 'command': 4.0, 'ranger': 4.0, 'trion': 5}  are the
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 4.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 4.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 4.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 4.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 4.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 4.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 4.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 4.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 4.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 4.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 4.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 4.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 4.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 4.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 4.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 4.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 4.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 4.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 4.0, 'trion': 2.5}
+bagworm . ['scorpion', 'shield', 'lightning', 'free trigger'] . 2
+['scorpion', 'shield', 'lightning', 'free trigger'] [ 2 ]
+bagworm
+{'attack': 2.0, 'mobility': 4.0, 'skill': 2.0, 'defense': 6.0, 'command': 4.0, 'ranger': 4.0, 'trion': 5}  are the
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.225, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.225, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.225, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.225, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.225, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.225, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.225, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.225, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.225, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+spider . ['scorpion', 'shield', 'bagworm', 'free trigger'] . 2
+['scorpion', 'shield', 'bagworm', 'free trigger'] [ 2 ]
+spider
+{'attack': 2.0, 'mobility': 4.0, 'skill': 2.0, 'defense': 6.0, 'command': 4.0, 'ranger': 4.0, 'trion': 5}  are the
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.625, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.625, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.625, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.625, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.625, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.625, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.625, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.625, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.625, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.625, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.625, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.625, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+grasshopper . ['scorpion', 'shield', 'spider', 'free trigger'] . 2
+['scorpion', 'shield', 'spider', 'free trigger'] [ 2 ]
+grasshopper
+{'attack': 2.0, 'mobility': 4.0, 'skill': 2.0, 'defense': 6.0, 'command': 4.0, 'ranger': 4.0, 'trion': 5}  are the
+halved stats are {'attack': 2.5, 'mobility': 3.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 3.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 3.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 3.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 3.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 3.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 3.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 3.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 3.5, 'skill': 1.0, 'defense': 4.125, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+dummy beacon . ['scorpion', 'shield', 'grasshopper', 'free trigger'] . 2
+['scorpion', 'shield', 'grasshopper', 'free trigger'] [ 2 ]
+dummy beacon
+{'attack': 2.0, 'mobility': 4.0, 'skill': 2.0, 'defense': 6.0, 'command': 4.0, 'ranger': 4.0, 'trion': 5}  are the
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.375, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.375, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.375, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.375, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.375, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.375, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.375, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.375, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.375, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.375, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.375, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.375, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.375, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.375, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.375, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.375, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.375, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.375, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.375, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.375, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.375, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.375, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.375, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.375, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.375, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.375, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.375, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.375, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.375, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.375, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.375, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.375, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.375, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.375, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.375, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.375, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.375, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.375, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.375, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.375, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.375, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.375, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.375, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.375, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.375, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.375, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.375, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.375, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.375, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.375, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.375, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.375, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.375, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 4.375, 'command': 2.0, 'ranger': 2.5, 'trion': 2.5}
+{'attack': 2.0, 'mobility': 4.0, 'skill': 2.0, 'defense': 6.0, 'command': 4.0, 'ranger': 4.0, 'trion': 5}  are the
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.0, 'mobility': 2.0, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+scorpion . ['free trigger', 'free trigger', 'free trigger', 'free trigger'] . 0
+['free trigger', 'free trigger', 'free trigger', 'free trigger'] [ 0 ]
+scorpion
+{'attack': 2.0, 'mobility': 4.0, 'skill': 2.0, 'defense': 6.0, 'command': 4.0, 'ranger': 4.0, 'trion': 5}  are the
+halved stats are {'attack': 1.75, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.75, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.75, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.75, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.75, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.75, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.75, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.75, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.75, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.75, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.75, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.75, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.75, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.75, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.75, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.75, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.75, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.75, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.75, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.75, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.75, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.75, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.75, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.75, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.75, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.75, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.75, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.75, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.75, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.75, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.75, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.75, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.75, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.75, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.75, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.75, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.75, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.75, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.75, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.75, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.75, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.75, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.75, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.75, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.75, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.75, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.75, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.75, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.75, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.75, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.75, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.75, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.75, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.75, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.75, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.75, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.75, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.75, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.75, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.75, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.75, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.75, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.75, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 1.75, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+kogetsu . ['free trigger', 'free trigger', 'free trigger', 'free trigger'] . 0
+['free trigger', 'free trigger', 'free trigger', 'free trigger'] [ 0 ]
+kogetsu
+{'attack': 2.0, 'mobility': 4.0, 'skill': 2.0, 'defense': 6.0, 'command': 4.0, 'ranger': 4.0, 'trion': 5}  are the
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.5, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+kogetsu . ['scorpion', 'free trigger', 'free trigger', 'free trigger'] . 1
+['scorpion', 'free trigger', 'free trigger', 'free trigger'] [ 1 ]
+kogetsu
+{'attack': 2.0, 'mobility': 4.0, 'skill': 2.0, 'defense': 6.0, 'command': 4.0, 'ranger': 4.0, 'trion': 5}  are the
+halved stats are {'attack': 2.875, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.875, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.875, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.875, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.875, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.875, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.875, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.875, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.875, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.875, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.875, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.875, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.875, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.875, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.875, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.875, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.875, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.875, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.875, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.875, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.875, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.875, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.875, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.875, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 2.875, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+hound . ['scorpion', 'kogetsu', 'free trigger', 'free trigger'] . 2
+['scorpion', 'kogetsu', 'free trigger', 'free trigger'] [ 2 ]
+hound
+{'attack': 2.0, 'mobility': 4.0, 'skill': 2.0, 'defense': 6.0, 'command': 4.0, 'ranger': 4.0, 'trion': 5}  are the
+halved stats are {'attack': 3.375, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 3.375, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 3.375, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 3.375, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 3.375, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 3.375, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 3.375, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 3.375, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 3.375, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 3.375, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 3.375, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 3.375, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 3.375, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 3.375, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 3.375, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 3.375, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 3.375, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 3.375, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 3.375, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 3.375, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 3.375, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 3.375, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 3.375, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 3.375, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 3.375, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 3.375, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 3.375, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 3.375, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 3.375, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 3.375, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 3.375, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 3.375, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 3.375, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 3.375, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 3.375, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 3.375, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 3.375, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 3.375, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 3.375, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 3.375, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 3.375, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 3.375, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 3.375, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 3.375, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 3.375, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 3.375, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 3.375, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 3.375, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 3.375, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 3.375, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 3.375, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 3.375, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 3.375, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 3.375, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 3.375, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 3.375, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 3.375, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 3.375, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 3.375, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 3.375, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 3.375, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 3.375, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 3.375, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 3.375, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 3.375, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 3.375, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 3.375, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 3.375, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+halved stats are {'attack': 3.375, 'mobility': 2.5, 'skill': 1.0, 'defense': 3.0, 'command': 2.0, 'ranger': 2.0, 'trion': 2.5}
+Cleaning stores took 0.00s
+Init translation took 0.00s
+Build styles took 0.00s
+Load screen analysis took 0.03s
+Analyze screens took 0.00s
+Prepare screens took 0.00s
+Running _start took 0.00s

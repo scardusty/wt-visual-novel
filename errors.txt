@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/edit_trigger.rpy", line 251: invalid syntax
+            elif self.name == "free trigger":
+             ^
+
+Ren'Py Version: Ren'Py 8.3.2.24090902
+Mon Oct 28 18:08:32 2024
